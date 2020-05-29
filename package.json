@@ -1,0 +1,15 @@
+{
+  "name": "jesuslives",
+  "version": "1.0.0",
+  "description": "Jesus Lives",
+  "homepage": "https://omarookolosio94.github.io/matrix",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
