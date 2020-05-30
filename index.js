@@ -26,7 +26,7 @@ ml4.scaleIn = [0.1, 1];
 ml4.scaleOut = 0.5;
 ml4.durationIn = 800;
 ml4.durationOut = 600;
-ml4.delay = 3000;
+ml4.delay = 8000;
 
 anime
   .timeline({ loop: true })
@@ -140,7 +140,7 @@ anime
     scale: ml4.scaleOut,
     duration: ml4.durationOut,
     easing: 'easeInExpo',
-    delay: ml4.delay
+    delay: 20000
   })
   .add({
     targets: '.ml4 .letters-9',
