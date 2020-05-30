@@ -198,3 +198,7 @@ body {
     font-size: 16px;
   }
 }
+
+audio {
+  display: hidden;
+}
