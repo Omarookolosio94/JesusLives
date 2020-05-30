@@ -169,12 +169,10 @@ body {
 
 @media only screen and (max-width: 768px) {
   .cartoon {
-    border: 1px solid red;
     width: auto;
   }
 
   .ml-box {
-    border: 1px solid red;
     width: 70%;
     margin-right: 0px;
   }
