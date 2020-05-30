@@ -26,7 +26,7 @@ ml4.scaleIn = [0.1, 1];
 ml4.scaleOut = 0.5;
 ml4.durationIn = 800;
 ml4.durationOut = 600;
-ml4.delay = 20000;
+ml4.delay = 3000;
 
 anime
   .timeline({ loop: true })
